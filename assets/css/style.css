@@ -4,3 +4,8 @@ body{
 .container-fluid{
     background: #78bbcb !important;
 }
+
+.footer .container-fluid{
+    background: purple !important;
+    color: white;
+}
